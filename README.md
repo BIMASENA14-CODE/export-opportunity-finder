@@ -58,7 +58,7 @@ Hanya kakao (18) yang lebih baik dengan tren. Selebihnya nilai terakhir menang.
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
+Atau klik link dasboard berikut: https://export-opportunity-finder-4wzgeafwp9d4mgwtah6ber.streamlit.app/
 Data hasil olahan harus ada di `data/hasil/`: `indikator_final.parquet`, `gravity.parquet`, `deret_impor.parquet`, `ringkasan.json` (dibuat oleh notebook sel 12-14).
 
 ## Keterbatasan
